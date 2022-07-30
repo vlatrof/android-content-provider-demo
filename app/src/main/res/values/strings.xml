@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidContentProviderDemo</string>
+    <string name="get_contacts">Get contacts</string>
 </resources>
